@@ -12,10 +12,7 @@ This course covers the fundemental topics in machine learning and prepare audien
 
 **Course Objective**
 
-* Provide a thorough introduction into probability theory and statistical inference including maximum-likelihood and Bayesian approaches
-* Introduce supervised learning methods: linear and nonlinear regressions and classification algorithms
-* Introduce unsupervised learning methods: clustering, and dimensionality reduction
-* Brief introduction to Directed Graphical Models with a case study/example. 
+Provide a thorough introduction into probability theory and statistical inference including maximum-likelihood and Bayesian approaches. Introduce supervised learning methods: linear and nonlinear regressions and classification algorithms. Introduce unsupervised learning methods: clustering, and dimensionality reduction. Brief introduction to Directed Graphical Models with a case study/example. 
 
 **Lead Developer**
 

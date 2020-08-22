@@ -36,7 +36,7 @@ At the end of this course participants will:
 
 *	Be able to describe the diffence between frequentist and bayesian statistics
 *	Understand the fundementals of probability theory, bayesian rule and inference, and the characteristics of major probability distributions.
-*	Get a good undrestanding of major supervised learning algorithms specifically linear in parameter regression, bayesian linear regression, and classification methods.
+*	Get a good understanding of major supervised learning algorithms specifically linear in parameter regression, bayesian linear regression, and classification methods.
 *	Get a good understanding of main unsupervised learning algorithms specifically clustering and data dimensionality reduction algorithms.
 * Get familiar with directed graphical method as a technique of combining supervised and unsupervised learning into one modelling framework
 * be prepared to build on their current knowledge or take on more advanced courses such as application of machine learning techniques in natural 

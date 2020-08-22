@@ -12,7 +12,6 @@ This course covers the fundemental topics in machine learning and prepare audien
 
 **Course Objective**
 
-This course aims to:
 * Provide a thorough introduction into probabilityb theory and statistical inference including maximum-likelihood and Bayesian approaches
 * Introduce supervised learning methods: linear and nonlinear regressions and classification algorithms
 * Introduce unsupervised learning methods: clustering, and dimensionality reduction
